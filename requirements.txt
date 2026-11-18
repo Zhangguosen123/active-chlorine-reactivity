@@ -1,0 +1,8 @@
+streamlit==1.37.1
+numpy==1.26.4
+pandas==2.2.2
+scikit-learn==1.5.1
+xgboost-cpu==3.4.1
+catboost==1.2.10
+rdkit==2025.9.6
+Pillow==10.4.0
